@@ -1,3 +1,3 @@
-# Project 2
+# Minecraft Catalog
 
-**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form.
+Class project. Game catalog connected to database. The user is able to input their own entries through a self-processing form.
